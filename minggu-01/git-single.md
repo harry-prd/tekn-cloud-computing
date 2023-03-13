@@ -20,5 +20,8 @@ Cek konfigurasi yang sudah ada:
 
 
 ## Mengelola Repo Sendiri
-### Mengelola repo di account sendiri
+Berikut latihan untuk mengelola Repo
+
+![alt text](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-01/gambar-02.png "Konfigurasi Email dan Username GitHub")
+
 ### Mengelola repo di organisasi
