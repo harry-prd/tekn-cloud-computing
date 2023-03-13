@@ -73,3 +73,4 @@ Push kembali jika ada perubahan
 
 
 ### Mengelola repo di organisasi
+Untuk mengelola repo di organisasi sama saja, hanya saja perbedaan terletak pada saat membuat repo Owner dari repo tersebut yaitu organisasi (misalnya UTDI).
