@@ -1,0 +1,5 @@
+## Rangkuman Cloud Computing
+
+Cloud computing adalah sebuah model layanan komputasi yang disediakan lewat internet. Dalam cloud computing, sumber daya komputasi seperti server, aplikasi, dan data disediakan dan diakses melalui jaringan internet, daripada menggunakan sumber daya / penyimpanan lokal seperti komputer pribadi atau server lokal. Ada tiga jenis layanan cloud computing: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), dan Software as a Service (SaaS). 
+
+Cloud computing memiliki beberapa keuntungan seperti skalabilitas, biaya yang lebih rendah, dan kemampuan untuk mengakses sumber daya dari mana saja. Namun, ada juga beberapa kekhawatiran keamanan dan privasi yang perlu diperhatikan. Kekhawatiran keamanan dan privasi yang seringkali dihadapi oleh pengguna cloud computing meliputi kekhawatiran tentang penyimpanan data, akses data oleh pihak ketiga, dan keamanan jaringan.
