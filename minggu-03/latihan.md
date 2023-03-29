@@ -38,4 +38,4 @@ Berikut ini langkah-langkah dalam mencoba **Deploy Some Code** pada dokumentasi 
 
 8. Kita juga bisa memanajemen app / melihat data statistik terkait App pada dashboard. Caranya pada langkah nomor 6 tadi, kita dapat klik tombol **Go To ... Dashboard**
 
- ![App Live](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-03/gambar/latihan07.png)
+ ![Dashboard](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-03/gambar/latihan07.png)
