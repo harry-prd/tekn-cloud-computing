@@ -1,41 +1,25 @@
-# Deploy Some Code! - Cyclic
-Berikut ini langkah-langkah dalam mencoba **Deploy Some Code** pada dokumentasi Cyclic.
+# Latihan - Minggu 04 - Install Devstack/Openstack
 
-1. Membuka [link dokumentasi cyclic](https://docs.cyclic.sh/#deploy-some-code) dan klik pada **Deploy Some Code!** dibagian sidebar kanan dokumentasi.
+1. add user untuk stack
 
- ![link dokumentasi cyclic](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-03/gambar/latihan01.png)
-
-
-2. Klik pada tombol **Deploy To Cyclic**.
-
- ![deploy to cyclic](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-03/gambar/latihan02.png)
+ ![1](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-04/gambar/1.png)
 
 
-3. Klik **Connect** untuk menghubungkan cyclic dengan repo github.
+2. Permission No Password untuk semua user
 
- ![connect repo](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-03/gambar/latihan03.png)
-
-
-4. Pada jendela izinkan hak akses pada github, disini saya pilih hanya satu repo saja yaitu **express-hello-world** lalu klik tombol **Approve & Install**.
-
- ![izinkan hak akses](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-03/gambar/latihan04.png)
+ ![2](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-04/gambar/2.png)
 
 
-5. Proses deploy berjalan tunggu sampai selesai.
+3. ganti super user stack
 
- ![proses deploy](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-03/gambar/latihan05.png)
-
-
-6. Proses deploy selesai ditandai log Success pada terminal dan app sudah live. Bisa membuka app tersebut pada link yang ditampilkan dibawah terminal.
-
- ![proses deploy selesai](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-03/gambar/latihan06.png)
+ ![3](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-04/gambar/3.png)
 
 
-7. Berikut hasil app yang di deploy dan berhasil Live.
+4. Clone repo devstack
 
- ![App Live](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-03/gambar/hasil-deploy.png)
+ ![4](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-04/gambar/4.png)
 
 
-8. Kita juga bisa memanajemen app / melihat data statistik terkait App pada dashboard. Caranya pada langkah nomor 6 tadi, kita dapat klik tombol **Go To ... Dashboard**
+5. Menambah konfig local.conf
 
- ![Dashboard](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-03/gambar/latihan07.png)
+ ![5](https://github.com/harry-prd/tekn-cloud-computing/blob/master/minggu-04/gambar/5.png)
